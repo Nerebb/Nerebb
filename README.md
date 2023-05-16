@@ -2,7 +2,11 @@
 
 I'm a front-end web developer and a designer.
 
-I strive to utilizing both the logical and creative in mine. As a web developer, i'm feel most in my place operating within a team. My top priorities of a website are quality, innovation and user experience.I am a proactive, confident and communicatively strong person always looking ahead in the furture.
+I strive to utilize both the logical and creative in mine. As a web developer, I feel most in my place operating within a team. My top priorities for a website are quality, innovation, and user experience. I am a proactive, confident, and communicatively strong person always looking ahead to the future.
+
+### More about me:
+
+Checkout this website if you want to known more about me:
 
 ### Languages and Tools:
 
